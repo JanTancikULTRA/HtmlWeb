@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Borderlands 2 </title>
+</head>
+
+<body style="background-color:powderblue;">
+<span style="position: relative;left: 1200px+ top: 10px"><li> <a href="Košík.html"> Košík</a></li>
+<h1 style="font-family:courier;">Borderlands 2</h1>
+<img src="Borderlands2.jpg" width="300" height="400">
+<h2 style="font-family:courier;">Co to je ?</h2>
+Borderlands 2 je akční dynamická střílečka z pohledu první osoby z roku 2012 vyvinutá firmou Gearbox stejně jako první díl.
+Využívá hodně prvků z RPG. Hráč si může svou postavu vylepšovat podle svého vlastního vkusu a herního stylu.
+<p>Hra rovněž stejně jako jednička využívá možnost kooperativního multiplayeru, kdy si můžete přizvat kamaráda do své zrovna rozpracované mise a nechat si pomoct například při obtížných bojích.
+
+</p><h3 style="font-family:courier;">Požadavky</h3>
+Operační systém: Windows Vista, 7
+<p> Procesor: Quad Core - 2.3 Ghz
+</p>
+<p> Grafika: nVidia GeForce GTX 560 / ATi Radeon HD 5850
+</p>
+<p> RAM: 2 GB
+</p><p> HDD: 20 GB
+
+</p><h3 style="font-family:courier;">Cena</h3>
+<b> 199.00 Kč </b>
+
+
+
+
+</span>
+</body>
+</html>
+
+
+</span></body></html>
